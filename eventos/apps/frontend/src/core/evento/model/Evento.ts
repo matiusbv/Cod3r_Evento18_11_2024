@@ -9,7 +9,7 @@ export default interface Evento {
   local: string;
   descricao: string;
   imagem: string;
-  imageBackground: string;
+  imagemBackground: string;
   publicoEsperado: number;
   convidados: Convidado[];
 }
